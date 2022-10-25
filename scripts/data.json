@@ -1,0 +1,10 @@
+{
+    "devicetypes": ["Soil Sensor"],
+    "soiltypes": ["Slit", "Clay", "Loam", "Peat"],
+    "watersources": ["Underground"],
+    "terraintypes": ["Plain"],
+    "croptypes": [{"name": "Cotton", "scientificName": "gossypium arboreum"}, {"name": "Wheat", "scientificName": "triticum aestivum"}],
+    "seedtypes": ["Generic"],
+    "cultivationtypes": ["Farming"],
+    "activities": ["Tilling", "Irrigation"]
+}
